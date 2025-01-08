@@ -26,8 +26,7 @@ mvn clean package
 
 ## Executing
 
-Executable artifacts are generated inside the `target` directory. For ease of use, there is an already executable JAR inside the target folder.
-To review a full list of configurable parameters, see the `application.yml`, or review the [configuration section of the Mork documentation](https://docs.mork-optimization.com/en/latest/features/config/).
+There is a executable JAR inside the code folder.
 
 Example 1: execute default experiment with the default set of instances
 ```text
